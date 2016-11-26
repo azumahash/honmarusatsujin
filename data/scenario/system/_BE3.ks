@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/toire1_2.jpg"  ]
+[preload  storage="./data/fgimage/default/tsura_2.png"  ]
+[preload  storage="./data/bgimage/none.jpg"  ]
+[preload  storage="./data/bgimage/gameover.png"  ]
+[return]

@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/none.jpg"  ]
+[preload  storage="./data/bgimage/house_toilet_a.jpg"  ]
+[preload  storage="./data/bgimage/128235704092616224226_BG41a.jpg"  ]
+[preload  storage="./data/bgimage/fune2.jpg"  ]
+[preload  storage="./data/bgimage/fune.jpg"  ]
+[preload  storage="./data/fgimage/chara/3/160326mii.png"  ]
+[preload  storage="./data/bgimage/gameclear.png"  ]
+[return]

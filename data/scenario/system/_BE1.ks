@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/haikyo_for_kaidang01.jpg"  ]
+[preload  storage="./data/fgimage/chara/6/jji_2.png"  ]
+[preload  storage="./data/fgimage/chara/9/shokudai_2.png"  ]
+[preload  storage="./data/fgimage/chara/8/kousetsu_2.png"  ]
+[preload  storage="./data/fgimage/chara/7/tsurumaru_2.png"  ]
+[preload  storage="./data/bgimage/none.jpg"  ]
+[preload  storage="./data/bgimage/gameover.png"  ]
+[return]

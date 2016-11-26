@@ -1,0 +1,7 @@
+[preload  storage="./data/bgimage/124495300101116215271_BG33c.jpg"  ]
+[preload  storage="./data/bgimage/GZ_die.jpg"  ]
+[preload  storage="./data/bgimage/disco000.jpg"  ]
+[preload  storage="./data/bgimage/hikaesitu00.jpg"  ]
+[preload  storage="./data/bgimage/none.jpg"  ]
+[preload  storage="./data/bgimage/gameover.png"  ]
+[return]

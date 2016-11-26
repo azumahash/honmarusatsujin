@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/4-1-01-e_2.jpg"  ]
+[preload  storage="./data/fgimage/chara/3/mii_black.png"  ]
+[preload  storage="./data/bgimage/none.jpg"  ]
+[preload  storage="./data/bgimage/title.jpg"  ]
+[preload  storage="./data/bgimage/airgate.jpg"  ]
+[preload  storage="./data/fgimage/chara/3/mii_2.png"  ]
+[preload  storage="./data/bgimage/gameover.png"  ]
+[return]
