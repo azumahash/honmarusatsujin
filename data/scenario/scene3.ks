@@ -1,5 +1,6 @@
 [_tb_system_call storage=system/_scene3.ks]
 
+[bg  time="1500"  method="crossfade"  storage="none.jpg"  ]
 [bg  time="1000"  method="crossfade"  storage="kakaka_die_2.jpg"  ]
 [chara_show  name="September"  time="300"  wait="true"  left="537"  top="0"  width=""  height=""  reflect="false"  ]
 [tb_start_tyrano_code]

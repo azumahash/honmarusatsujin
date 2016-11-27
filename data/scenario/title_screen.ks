@@ -4,7 +4,7 @@
 
 [tb_hide_message_window  ]
 [playbgm  loop="true"  storage="beautiful.ogg"  ]
-[bg  storage="title.png"  ]
+[bg  storage="title.jpg"  ]
 *title
 
 [button  storage="title_screen.ks"  target="*start"  graphic="START.png"  width="130"  height="41"  x="335"  y="380"  _clickable_img=""  ]

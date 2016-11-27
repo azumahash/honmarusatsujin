@@ -60,6 +60,7 @@ Ending List：[r]
 [tb_start_tyrano_code]
 @layopt layer=message1 visible=false
 [current layer="message0" ]
+[position layer=message0 width=800 height=198 left=0 top=395 page=fore frame="serifuwaku.png" margint="35" marginl="185" marginr="200" marginb="10"]
 [_tb_end_tyrano_code]
 
 [cm  ]

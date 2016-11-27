@@ -3,5 +3,5 @@
 [preload  storage="./data/bgimage/disco000.jpg"  ]
 [preload  storage="./data/bgimage/hikaesitu00.jpg"  ]
 [preload  storage="./data/bgimage/none.jpg"  ]
-[preload  storage="./data/bgimage/gameover.png"  ]
+[preload  storage="./data/bgimage/gameover.jpg"  ]
 [return]

@@ -2,5 +2,5 @@
 [preload  storage="./data/bgimage/124495300101116215271_BG33c.jpg"  ]
 [preload  storage="./data/bgimage/kakaka_die_2.jpg"  ]
 [preload  storage="./data/bgimage/none.jpg"  ]
-[preload  storage="./data/bgimage/gameover.png"  ]
+[preload  storage="./data/bgimage/gameover.jpg"  ]
 [return]

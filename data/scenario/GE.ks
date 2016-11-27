@@ -211,7 +211,21 @@ LOVE*HONMARU發表了一首新曲「殺了你把你沖進馬桶」，一炮而�
 ......就這樣，成名後的LOVE*HONMARU發揮她們龐大的勢力，為所欲為，
 得到了任何她們想要的ikemen[l][r]
 真是可喜可賀、可喜可賀[p]
+[_tb_end_tyrano_code]
 
+[tb_start_tyrano_code]
+[fadeoutbgm time=800]
+[_tb_end_tyrano_code]
+
+[wait  time="800"  ]
+[playse  storage="mystery5.ogg"  ]
+[wait  time="800"  ]
+[tb_start_tyrano_code]
+.........而咖咖咖究竟真的是死於意外嗎？[r]
+在屍體被處理掉的現在，已經再也沒有人會知道答案......[p]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 -GOOD END-[r]
 このアイドル、マジてやばい[p]
 [_tb_end_tyrano_code]
@@ -222,7 +236,7 @@ LOVE*HONMARU發表了一首新曲「殺了你把你沖進馬桶」，一炮而�
 [_tb_end_tyrano_code]
 
 [bg  time="1500"  method="crossfade"  storage="none.jpg"  ]
-[bg  time="1000"  method="crossfade"  storage="gameclear.png"  ]
+[bg  time="1000"  method="crossfade"  storage="gameclear.jpg"  ]
 [playse  storage="clear.ogg"  ]
 [wait  time="3000"  ]
 [tb_start_tyrano_code]

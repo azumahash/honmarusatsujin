@@ -4,5 +4,5 @@
 [preload  storage="./data/fgimage/chara/8/kousetsu_2.png"  ]
 [preload  storage="./data/fgimage/chara/7/tsurumaru_2.png"  ]
 [preload  storage="./data/bgimage/none.jpg"  ]
-[preload  storage="./data/bgimage/gameover.png"  ]
+[preload  storage="./data/bgimage/gameover.jpg"  ]
 [return]

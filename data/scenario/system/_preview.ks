@@ -1,1 +1,6 @@
+[preload  storage="./data/bgimage/none.jpg"  ]
+[preload  storage="./data/bgimage/fune2.jpg"  ]
+[preload  storage="./data/bgimage/fune.jpg"  ]
+[preload  storage="./data/fgimage/chara/3/160326mii.png"  ]
+[preload  storage="./data/bgimage/gameclear.jpg"  ]
 [return] 

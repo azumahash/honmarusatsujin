@@ -2,7 +2,7 @@
 ;global.config_version=3.14
 ;System.title=LOVE*HONMARU殺人事件
 ;projectID=kakaka_test
-;ScreenRatio=fix
+;ScreenRatio=normal
 ;scWidth=800
 ;scHeight=600
 ;chSpeeds.fast=10
@@ -41,7 +41,7 @@
 ;numMessageLayers=2
 ;initialMessageLayerVisible=true
 ;numBookMarks=10
-;debugMenu.visible=false
+;debugMenu.visible=true
 ;layerType=ltAddAlpha
 ;frameGraphic=
 ;frameColor=0x000000

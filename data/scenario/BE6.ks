@@ -114,7 +114,7 @@
 [bg  time="800"  method="crossfade"  storage="none.jpg"  ]
 [playse  storage="gameover3.ogg"  ]
 [tb_hide_message_window  ]
-[bg  time="1500"  method="crossfade"  storage="gameover.png"  ]
+[bg  time="1500"  method="crossfade"  storage="gameover.jpg"  ]
 [tb_start_tyrano_code]
 [l]
 [_tb_end_tyrano_code]

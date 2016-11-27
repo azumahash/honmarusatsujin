@@ -60,13 +60,7 @@ one酒吧-OKAMA-，不覺得在哪裡聽過嗎？[p]
 
 [chara_show  name="September頭像"  layer="message0"  zindex="1005"  time="0　left"  top="352"  width=""  height=""  reflect="false"  ]
 #September
-KAPA.醬跟ICCO分別是這家店裡最受歡迎的坐檯one，在爭奪No.1的位置[p]
-
-
-[l]
-
-[r]
-
+KAPA.醬跟ICCO分別是這家店裡最受歡迎的坐檯one，在爭奪No.1的位置[l][r]
 盼薰一定是和咖咖咖在爭執哪個one比較正，一言不和就用摔角招式把咖咖咖摔死了！[p]
 
 
@@ -120,7 +114,7 @@ KAPA.醬跟ICCO分別是這家店裡最受歡迎的坐檯one，在爭奪No.1的�
 [bg  time="800"  method="crossfade"  storage="none.jpg"  ]
 [playse  storage="gameover3.ogg"  ]
 [tb_hide_message_window  ]
-[bg  time="1500"  method="crossfade"  storage="gameover.png"  ]
+[bg  time="1500"  method="crossfade"  storage="gameover.jpg"  ]
 [tb_start_tyrano_code]
 [l]
 [_tb_end_tyrano_code]
